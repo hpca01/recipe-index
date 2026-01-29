@@ -11,3 +11,4 @@ wheels/
 
 content/
 *.lock
+*.sqlite3
